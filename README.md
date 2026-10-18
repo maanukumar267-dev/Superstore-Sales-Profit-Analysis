@@ -138,3 +138,15 @@ Aspiring Data Analyst
 Tools: SQL Server | Microsoft Power BI
 
 GitHub: [Superstore Sales & Profit Analysis](https://github.com/maanukumar267-dev/Superstore-Sales-Profit-Analysis)
+
+
+## 📊 Power BI Dashboard Screenshots
+
+### 1. Report Summary
+![Report Summary](Page1_Report_summary.png)
+
+### 2. Sales Analysis
+![Sales Analysis](Page2_Sales_Analysis.png)
+
+### 3. Product Profit Analysis
+![Product Profit Analysis](Page3_Product_profit_analysis.png)
